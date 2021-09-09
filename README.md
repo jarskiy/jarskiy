@@ -6,9 +6,14 @@
 
 Hello!, my name Fajar, i live in indonesia at riau, i'm passionate about Design, Data & Code. 
 
-### Talk to me
+### How to reach me?
 
-https://www.instagram.com/jarskiy/
+ • 📷 My Instagram(https://www.instagram.com/jarskiy/)
+
+
+### Programming skills
+
+
 <!--
 **jarskiy/jarskiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
