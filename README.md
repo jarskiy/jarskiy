@@ -13,7 +13,7 @@ Hello!, my name Fajar, i live in indonesia at riau, i'm passionate about Design,
  • 🎮 My [Discord](https://www.discord.com/FajeK#1889)
 
 ### Programming skills
-
+#python
 
 <!--
 **jarskiy/jarskiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-B
+
