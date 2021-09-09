@@ -9,7 +9,8 @@ Hello!, my name Fajar, i live in indonesia at riau, i'm passionate about Design,
 ### How to reach me?
 
  • 📷 My [Instagram](https://www.instagram.com/jarskiy/)
-
+ • 🧑‍💻 My [LinkedIn](https://www.linkedin.com/in/fajar-subarkah-088137129)
+ • 🎮 My [Discord](https://www.discord.com/FajeK#1889)
 
 ### Programming skills
 
@@ -28,3 +29,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+B
