@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![Our room pixel art](https://user-images.githubusercontent.com/74707401/132700142-e42ca470-a607-4ebe-abaf-cac3891f707c.gif)
+
+
 <!--
 **jarskiy/jarskiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
