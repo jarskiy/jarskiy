@@ -1,4 +1,12 @@
-### Hi there 👋
+<h1 align='center'> Hi there 👋, I'm Fajar 🧑🏻‍💻</h1>
+
+<p align='center'>
+  I live in indonesia at riau, i'm passionate about Design, Data & Code.
+</p>
+
+<p align='center'>
+  <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=jarskiy.jarskiy??style=for-the-badge&logo=appveyor"></a>
+</p>
 
 ![Our room pixel art](https://user-images.githubusercontent.com/74707401/132700142-e42ca470-a607-4ebe-abaf-cac3891f707c.gif)
 
@@ -10,10 +18,10 @@ Hello!, my name Fajar, i live in indonesia at riau, i'm passionate about Design,
 
  • 📷 My [Instagram](https://www.instagram.com/jarskiy/)
  • 🧑‍💻 My [LinkedIn](https://www.linkedin.com/in/fajar-subarkah-088137129)
- • 🎮 My [Discord](https://www.discord.com/FajeK#1889)
 
-### Programming skills
-#python
+### 🔭 I’m currently working with ...
+
+
 
 <!--
 **jarskiy/jarskiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
