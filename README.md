@@ -8,7 +8,7 @@ Hello!, my name Fajar, i live in indonesia at riau, i'm passionate about Design,
 
 ### How to reach me?
 
- • 📷 My Instagram(https://www.instagram.com/jarskiy/)
+ • 📷 My [Instagram](https://www.instagram.com/jarskiy/)
 
 
 ### Programming skills
