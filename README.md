@@ -8,6 +8,14 @@
   <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=jarskiy.jarskiy??style=for-the-badge&logo=appveyor"></a>
 </p>
 
+<p align='center'>
+  <a href="https://twitter.com/itsjarskiy"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/fajar-subarkah-088137129/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:jarskiy@gmail.com?subject=Olá%20Stefany"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+<hr>
+
 ![Our room pixel art](https://user-images.githubusercontent.com/74707401/132700142-e42ca470-a607-4ebe-abaf-cac3891f707c.gif)
 
 ### About me 🧒
