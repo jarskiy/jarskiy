@@ -20,7 +20,7 @@
 
 <hr>
 
-<h4> My Statistics</h4>
+<h4> 📈 My Statistics</h4>
 
 <p align="left">
   <a href="https://jarskiy.github.io/portofolio-website/">
