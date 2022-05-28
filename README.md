@@ -22,7 +22,12 @@
 
 <h4> My Statistics</h4>
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=jarskiy&count_private=true&show_icons=true&theme=prussian" alt="jarskiy" /> </p>
+<p align="left">
+  <a href="https://jarskiy.github.io/portofolio-website/">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=jarskiy&show_icons=true&theme=prussian&border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=jarskiy&theme=prussian&border=true" />
+  </a>
+</p>
 
 <h4> 💻 Programming skills</h4>
 
