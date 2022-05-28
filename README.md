@@ -20,6 +20,8 @@
 
 <hr>
 
+<h4> My Statistics</h4>
+
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=jarskiy&count_private=true&show_icons=true&theme=prussian" alt="jarskiy" /> </p>
 
 <h4> 💻 Programming skills</h4>
